@@ -11,7 +11,7 @@ This repository is a functioning nosql api using MongoDB and Mongoose, along wit
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
-* [Tests](#tests)
+* [Video](#video)
 * [Questions](#questions)
 
 
@@ -35,9 +35,12 @@ This project is protected by an MIT license. For more information, please contac
 N/A
 
 
-## Tests
+## Video
 
-N/A
+https://watch.screencastify.com/v/6m3iopAW7yayISyDgsf1
+
+
+https://user-images.githubusercontent.com/85654339/141663122-14ec91ef-0787-42cc-a18d-d1a27e9074e1.mp4
 
 
 ## Questions
